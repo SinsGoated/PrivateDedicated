@@ -52,8 +52,5 @@ You will need to have root access for flawless installation.
 > 
 > #### Github By Sin
 >
->
->  Some respitories *are NOT mine* **AND IS CREDITED TO THE ORIGINAL CREATORS.**.
->
 
 *We aren't just going to baby feed you so you will need to learn somehow.*
