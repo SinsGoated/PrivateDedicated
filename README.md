@@ -1,4 +1,4 @@
-# PrivateDedicated
+# Private Dedicated Gaming Servers | Linux Edition
 
 **Let's get started with installing a server on linux.**
 You will need to have root access for flawless installation.
@@ -36,8 +36,14 @@ You will need to have root access for flawless installation.
  
 ##### This is execute inside your server console.
  > ./{APPLICATION} +exec "server.cfg" +set fs_game "mods/ExampleMod" +map_rotate +set dedicated 2 +set net_ip 192.168.1.1
- 
+
+---
+
+> 
 > #### Github By Sin
 >
 >
 >  Some respitories *are NOT mine* **AND IS CREDITED TO THE ORIGINAL CREATORS.**.
+>
+
+*We aren't just going to baby feed you so you will need to learn somehow.*
