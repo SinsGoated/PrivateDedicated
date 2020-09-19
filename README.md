@@ -8,6 +8,9 @@
  > [Google Drive Download](https://drive.google.com/file/d/14DQ_obkYOH6uziX-BgIG-bqMgCTIcfzl/view)
  > 
  > [Dropbox Direct Download](https://www.dropbox.com/s/04r2romkpapahxn/CODMW%20-%20Full%20-%20Linux.zip?dl=1)
+ > *Example Linux Get Package.*
+ > ```wget https://www.dropbox.com/s/04r2romkpapahxn/CODMW%20-%20Full%20-%20Linux.zip?dl=1
+ > unzip CCODMW - Full - Linux.zip?dl=1```
  >
  > Anonfiles link coming soon.
  >
