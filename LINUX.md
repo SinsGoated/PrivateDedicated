@@ -17,11 +17,11 @@ You will need to have root access for flawless installation.
  > cd ~
  > mkdir {NAME OF GAME FOLDER}
  
- ##### Go inside the folder you just created and download needed files.
+ ##### Go inside the folder you just created and download needed files. (Skip past line 20-30 if you are adding the files manually.)
  > cd {NAME OF GAME FOLDER}
  > wget {ADD LINKS}
  
- ##### If you need to extract a tar file use this command.
+ ##### If you need to extract a tar file use this command. 
  > tar -xvjf {FILE NAME}
  
  ##### If you are unzipping the file then use this command.
