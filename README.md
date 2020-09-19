@@ -1,6 +1,7 @@
 [Linux Installation Documentation](https://github.com/SinsGoated/PrivateDedicated/blob/master/LINUX.md)
+[List of Game Variables (Default)](https://github.com/SinsGoated/PrivateDedicated/blob/master/CODMW_DVARS_LIST.md)
 
-### Call of Duty: Modern Warfare
+### Call of Duty: Modern Warfare Linux Dedicated Server
 #### Linux Edition FULL, Working 9/18/2020
 
  > 
@@ -20,5 +21,31 @@
  > Anonfiles link coming soon.
  > 
  > *This would be a manual server installation, drag and drop through SFTP.*
+ > 
+ >
+ 
+### Call of Duty: Modern Warfare Windows Dedicated Server
+#### Credits to Cod4X for making this possible.
+
+ > 
+ >
+ > [Cod4X Direct Download](https://cod4x.me/downloads/cod4x_server-windows.zip)
+ > 
+ > *Please refer to their documentation when it comes to windows installations.*
+ > 
+ > [Cod4X Windows Documentation](https://callofduty4x.gitbook.io/docs/server-configuration)
+ > 
+ >
+
+### Call of Duty: Modern Warfare Full Game
+#### Follow these sources, they are legit and get you in private servers as soon as possible.
+
+ > 
+ >
+ > [UploadHaven Direct Download](https://uploadhaven.com/download/5923876e94c9d1af61cef7512eba7995) - Credits to nosTeam
+ > 
+ > *Download and extract the game to a safe place, create a shortcut to the iw3xmp.exe. Place it on your desktop.*
+ > 
+ > [Cod4X Direct Download](https://cod4x.me/downloads/cod4x_client_18_3.zip) | [Installation Documentation](https://cod4x.me/index.php?/forums/topic/12-how-to-install-cod4x/) - Client for private servers.
  > 
  >
