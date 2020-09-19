@@ -4,5 +4,7 @@
 #### Linux Edition FULL, Working 9/18/2020
 
  > 
- > LINK BEING ADDED, AWAITING LINK
+ > [Google Drive Download](https://drive.google.com/file/d/14DQ_obkYOH6uziX-BgIG-bqMgCTIcfzl/view)
  > 
+ > Dropbox coming soon.
+ >
