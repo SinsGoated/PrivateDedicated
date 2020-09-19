@@ -19,7 +19,7 @@
  >
  > ```unzip CCODMW - Full - Linux.zip?dl=1```
  >
- > Anonfiles link coming soon.
+ > [Anonfiles Direct Download](https://anonfiles.com/F9o3M6Weo9/CODMW_-_Full_-_Linux_zip)
  > 
  > *This would be a manual server installation, drag and drop through SFTP.*
  > 
