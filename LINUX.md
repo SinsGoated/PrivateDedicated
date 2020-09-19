@@ -3,7 +3,17 @@
 **Let's get started with installing a server on linux.**
 You will need to have root access for flawless installation.
 
-##### Once logged in start with this command.
+##### Once logged in start with these commands, This will open your ports.
+ > sudo ufw allow 28960/tcp
+ > 
+ > sudo ufw allow 28960/udp
+ > 
+ > sudo ufw disable
+ > 
+ > sudo ufw enable
+ > 
+
+###### Let's upgrade all packages and update them.
  > apt-get update && apt-get upgrade
  
  ##### Let's install an OS for our images just in case called.
