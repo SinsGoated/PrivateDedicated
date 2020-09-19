@@ -1,4 +1,5 @@
 [Linux Installation Documentation](https://github.com/SinsGoated/PrivateDedicated/blob/master/LINUX.md)
+
 [List of Game Variables (Default)](https://github.com/SinsGoated/PrivateDedicated/blob/master/CODMW_DVARS_LIST.md)
 
 ### Call of Duty: Modern Warfare Linux Dedicated Server
