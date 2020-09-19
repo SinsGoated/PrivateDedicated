@@ -50,3 +50,5 @@
  > [Cod4X Direct Download](https://cod4x.me/downloads/cod4x_client_18_3.zip) | [Installation Documentation](https://cod4x.me/index.php?/forums/topic/12-how-to-install-cod4x/) - Client for private servers.
  > 
  >
+
+### Maps/Weapons/Camos/Emblems/& Mods: [cmod.pw - Click To Visit](https://cmod.pw/forum/)
