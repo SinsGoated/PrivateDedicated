@@ -4,7 +4,11 @@
 #### Linux Edition FULL, Working 9/18/2020
 
  > 
+ >
  > [Google Drive Download](https://drive.google.com/file/d/14DQ_obkYOH6uziX-BgIG-bqMgCTIcfzl/view)
  > 
- > Dropbox coming soon.
+ > Dropbox link coming soon.
+ >
+ > Anonfiles link coming soon.
+ >
  >
